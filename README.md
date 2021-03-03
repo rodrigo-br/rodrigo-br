@@ -1,7 +1,7 @@
-<img src="crushpixel-689702-ID689702-1280x711.jpg" width="650" height="300">
+![](imagemreduzida.png)
 
-### Hi there 👋
-
+<h1 style="border:solid; border-width: 0 0 1px 0"> Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the I.A.
 
 
 - 🌱 I’m currently learning Python for Data Science, focusing in Deep Learning
