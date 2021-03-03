@@ -9,4 +9,6 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 - 🏠 Living in São Paulo, but available to move
 
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-br&repo=github-readme-stats&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-br&repo=Portfolio&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-br&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats)
+
