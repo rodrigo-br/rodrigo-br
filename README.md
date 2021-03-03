@@ -1,4 +1,4 @@
-![](crushpixel-689702-ID689702-1280x711.jpg)
+<img src="crushpixel-689702-ID689702-1280x711.jpg" width="650" height="300">
 
 ### Hi there 👋
 
