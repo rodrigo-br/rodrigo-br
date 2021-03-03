@@ -1,8 +1,10 @@
+![](crushpixel-689702-ID689702-1280x711.jpg)
+
 ### Hi there 👋
 
 
 
-- 🌱 I’m currently learning Python for Data Science
+- 🌱 I’m currently learning Python for Data Science, focusing in Deep Learning
 <!--
 **rodrigo-br/rodrigo-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
