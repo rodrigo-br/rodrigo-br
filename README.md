@@ -35,3 +35,13 @@ I also try to record my experience as a student and my growth path on my blog <a
 
 [![bla](https://github-readme-stats.vercel.app/api/pin/?username=rodrigo-br&repo=Portfolio&theme=algolia)](https://github.com/rodrigo-br/Portfolio)
 
+
+<hr>
+
+
+##### You can find me on :
+
+[<img height="32" width="32" src="https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png" />](https://www.linkedin.com/in/rodrigoalves-brito/) [<img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyBOhoszA4rnl51UKY-ntcNjIsOlx2Uomhw&usqp=CAU" />](https://api.whatsapp.com/send?phone=5511986073929)
+
+
+<hr>
