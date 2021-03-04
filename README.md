@@ -13,6 +13,11 @@ I also try to record my experience as a student and my growth path on my blog <a
 
 #### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Um código aleatório com Tkinter](http://localhost:4000/2021/03/01/utilizando-tkinter.html)
+- [Conhecendo a biblioteca Pandas](http://localhost:4000/2021/02/19/conhecendo-pandas.html)
+- [Meu primeiro programa em Python](http://localhost:4000/2021/02/05/meu-primeiro-codigo.html)
+- [O hábito de estudar](http://localhost:4000/2021/02/01/relacao-estudo-curso.html)
+- [Quero ser um Data Scientist. Por quê?](http://localhost:4000/2021/01/25/como-eu-comecei.html)
 <!-- BLOG-POST-LIST:END -->
 
 
