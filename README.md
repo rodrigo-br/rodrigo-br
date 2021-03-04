@@ -7,11 +7,11 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 - 🌱 I’m currently learning Python for Data Science, focusing in Deep Learning 
 - 🏠 Living in São Paulo, but available to move
-<h3 style="border:solid; border-width: 0 0 2px 0; border-spacing"><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="80px"> Aspiring Blog Writer</h3>
+<h2 style="border:solid; border-width: 0 0 2px 0; border-spacing"><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="80px"> Aspiring Blog Writer</h3>
 
 I also try to record my experience as a student and my growth path on my blog <a href="http://extraordinarioinsolito.com/">Extraordinário Insólito</a>
 
-# Latest Blog posts
+#### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
