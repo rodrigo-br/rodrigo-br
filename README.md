@@ -11,6 +11,10 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 I also try to record my experience as a student and my growth path on my blog <a href="http://extraordinarioinsolito.com/">Extraordinário Insólito</a>
 
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-br&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats)
