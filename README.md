@@ -1,4 +1,4 @@
-![](imagemreduzida.png)
+![](imagemreduzidacomnome.jpg)
 
 <h1 style="border:solid; border-width: 0 0 2px 0"> Hi there!  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80px"></h1>
 My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the I.A. 🤖
