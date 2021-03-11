@@ -18,6 +18,11 @@ I also try to record my experience as a student and my growth path on my blog <a
 
 ### Latest Blog posts
 <!-- BLOG:START -->
+- [Um código aleatório com Tkinter](http://extraordinarioinsolito.com//2021/03/01/utilizando-tkinter.html)
+- [Conhecendo a biblioteca Pandas](http://extraordinarioinsolito.com//2021/02/19/conhecendo-pandas.html)
+- [Meu primeiro programa em Python](http://extraordinarioinsolito.com//2021/02/05/meu-primeiro-codigo.html)
+- [O hábito de estudar](http://extraordinarioinsolito.com//2021/02/01/relacao-estudo-curso.html)
+- [Quero ser um Data Scientist. Por quê?](http://extraordinarioinsolito.com//2021/01/25/como-eu-comecei.html)
 <!-- BLOG:END -->
 
 
