@@ -11,19 +11,7 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /><img height="32" width="32" src="https://image.winudf.com/v2/image/Y29tLnJhZmF0aGVuZy5LYWdnbGVfSW5faWNvbl8xNTMwNjM3MjQ5XzAyNw/icon.png?w=170&fakeurl=1" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/markdown.svg" />
 
-<h2 style="border:solid; border-width: 0 0 2px 0; border-spacing"><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="80px"> Aspiring Blog Writer</h3>
 
-
-I also try to record my experience as a student and my growth path on my blog <a href="http://extraordinarioinsolito.com/">Extraordinário Insólito</a>
-
-### Latest Blog posts
-<!-- BLOG:START -->
-- [Um código aleatório com Tkinter](http://extraordinarioinsolito.com//2021/03/01/utilizando-tkinter.html)
-- [Conhecendo a biblioteca Pandas](http://extraordinarioinsolito.com//2021/02/19/conhecendo-pandas.html)
-- [Meu primeiro programa em Python](http://extraordinarioinsolito.com//2021/02/05/meu-primeiro-codigo.html)
-- [O hábito de estudar](http://extraordinarioinsolito.com//2021/02/01/relacao-estudo-curso.html)
-- [Quero ser um Data Scientist. Por quê?](http://extraordinarioinsolito.com//2021/01/25/como-eu-comecei.html)
-<!-- BLOG:END -->
 
 
 <hr>
