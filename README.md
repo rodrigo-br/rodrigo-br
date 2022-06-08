@@ -16,7 +16,7 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 <hr>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img height="174" width="494" img src="https://badge42.vercel.app/api/v2/cl44yvrfh00810al96fmppjez/stats?cursusId=21&coalitionId=undefined" alt="ralves-b's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img height="174" img src="https://badge42.vercel.app/api/v2/cl44yvrfh00810al96fmppjez/stats?cursusId=21&coalitionId=undefined" alt="ralves-b's 42 stats" /></a>
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-br&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-br&hide=tcl,html)
