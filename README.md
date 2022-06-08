@@ -5,7 +5,7 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 <hr style="opacity:0.3">
 
-- 🌱 I’m currently learning Python for Data Science, focusing in Deep Learning 
+- 🌱 I’m currently studing at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) 
 - 🏠 Living in São Paulo, but available to move
 - Playing around with some funny tools:
 
@@ -17,7 +17,7 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 <hr>
 
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-br&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-br&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats) [![ralves-b's 42 stats](https://badge42.vercel.app/api/v2/cl44yvrfh00810al96fmppjez/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-br&hide=tcl,html)
 
