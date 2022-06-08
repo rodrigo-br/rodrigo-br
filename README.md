@@ -5,7 +5,7 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 <hr style="opacity:0.3">
 
-- 🌱 I’m currently studing at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) 
+- 🌱 I’m currently studying at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) 
 - 🏠 Living in São Paulo, but available to move
 - Playing around with some funny tools:
 
