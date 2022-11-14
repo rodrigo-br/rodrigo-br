@@ -20,8 +20,6 @@ My name is Rodrigo Alves and i'm a student and entusiastic of all fields of the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-br&hide=tcl,html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bla](https://github-readme-stats.vercel.app/api/pin/?username=rodrigo-br&repo=Portfolio&theme=algolia)](https://github.com/rodrigo-br/Portfolio)
-
 
 <hr>
 
