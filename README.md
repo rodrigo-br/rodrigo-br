@@ -6,6 +6,7 @@ My name is Rodrigo Alves!
 <hr style="opacity:0.3">
 
 - 🌱 I’m currently studying at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/)
+- Software Engineering bachelor's student at [UniFatecie](https://unifatecie.edu.br/)
 - Trying some games with Unity. Check my [itch](https://rodrigo-br.itch.io/)
 
 
