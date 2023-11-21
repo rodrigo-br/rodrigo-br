@@ -11,7 +11,9 @@ My name is Rodrigo Alves!
 
 <hr>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img height="144" img src="https://badge42.vercel.app/api/v2/cl44yvrfh00810al96fmppjez/stats?cursusId=21&coalitionId=undefined" alt="ralves-b's 42 stats" /></a> <a href="https://github.com/JaeSeoKim/badge42"><img width="400" img src="https://github-readme-stats.vercel.app/api?username=rodrigo-br&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodrigo-br&theme=highcontrast&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+
+<a href="https://github.com/JaeSeoKim/badge42"><img width="400" img src="https://github-readme-stats.vercel.app/api?username=rodrigo-br&hide=stars&show_icons=true&theme=algolia&custom_title=My&nbsp;GitHub&nbsp;Stats" /></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-br&hide=tcl,html)
 
